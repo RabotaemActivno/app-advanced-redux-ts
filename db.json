@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "waldmaw;d",
+      "body": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "body": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "kawdaw",
+      "body": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 11,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "title": "",
+      "body": "12123123",
+      "id": 12
+    },
+    {
+      "title": "cnew",
+      "body": "cnew",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
